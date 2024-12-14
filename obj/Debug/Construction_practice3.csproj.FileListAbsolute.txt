@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Construction_practice3\obj\Debug\Construction_practice3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Construction_practice3\obj\Debug\Construction_practice3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Construction_practice3\bin\Debug\Construction_practice3.exe.config
+C:\Users\Пользователь\source\repos\Construction_practice3\bin\Debug\Construction_practice3.exe
+C:\Users\Пользователь\source\repos\Construction_practice3\bin\Debug\Construction_practice3.pdb
+C:\Users\Пользователь\source\repos\Construction_practice3\obj\Debug\Construction_practice3.exe
+C:\Users\Пользователь\source\repos\Construction_practice3\obj\Debug\Construction_practice3.pdb
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\bin\Debug\Construction_practice3.exe.config
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\bin\Debug\Construction_practice3.exe
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\bin\Debug\Construction_practice3.pdb
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\obj\Debug\Construction_practice3.csproj.AssemblyReference.cache
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\obj\Debug\Construction_practice3.csproj.CoreCompileInputs.cache
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\obj\Debug\Construction_practice3.exe
+C:\Users\NORINOBU\Source\Repos\Construction_practice3\obj\Debug\Construction_practice3.pdb
